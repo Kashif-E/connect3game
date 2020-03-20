@@ -1,4 +1,4 @@
-#The Connect3Game #
+# The Connect3Game #
 
 This is an approvement of the traditional tic tac toe game with two types of players: yellow and red.The players are able to win and restart the game and if no one is able to win then the game restarts automatically.
 
